@@ -10,3 +10,11 @@
 //     }
 //     return false;
 // }
+
+// =============================================================================
+// O(n^2) Polynomial time
+// This function is searching through two input arrays to find matching values
+// In the worst case, the function is looping through each element in the second
+// array for each element in the first array, meaning the time operations grow
+// exponentially with input size
+// =============================================================================
